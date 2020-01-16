@@ -1,0 +1,11 @@
+phones,email,firstname,lastname,role,username,isActive,_created_at,_updated_at
+(111) 222-1212,jhon@smith.io,Jhon,Smith,0,jhon,True,2018-06-12T19:53:25.940+0000,2019-08-14T06:17:53.822+0000
+(222) 111-2222,shirley@Green.com,Shirley,Green,2,shirley,False,2018-11-09T00:29:20.561+0000,2019-12-12T01:13:38.869+0000
+(212) 121-0977,williams@lynne.com,Lynne,Williams,0,williams,True,2019-10-15T16:54:02.597+0000,2019-12-31T02:41:32.212+0000
+(956) 867-2041,andrea@williams.com,Andrea,Williams,1,andrea,False,2018-10-16T19:24:03.358+0000,2019-06-05T19:37:29.464+0000
+(121) 421-7027,bobby@helper.com,Bobby,Brookins,4,bobby,True,2018-08-17T20:51:31.896+0000,2019-06-03T11:03:21.210+0000
+(121) 421-4375,millard@linda.com,Linda,Millard,2,millard,False,2019-05-10T22:24:19.164+0000,2019-11-06T17:26:05.719+0000
+(121) 212-421,emery@robert.com,Robert,Emery,4,robert,False,2018-09-25T16:01:51.640+0000,2018-12-27T18:55:51.799+0000
+(122) 212-1122,doris@lannon.com,Doris,Lannon,2,doris,True,2017-06-15T22:28:42.017+0000,2018-01-04T15:34:18.816+0000
+(111) 222-2222,Roberts@michael.com,Michael,Roberts,2,michael,True,2018-12-12T21:04:56.497+0000,2019-12-17T17:05:59.872+0000
+(121) 212-2121,hearn@michelle.com,Michelle,Hearn,0,michelle,True,2017-11-02T20:36:28.090+0000,2019-12-12T14:19:21.630+0000
